@@ -22,6 +22,7 @@ struct ContentView: View {
                             }
                             .pickerStyle(SegmentedPickerStyle())
                         }
+                        .disabled(mStateModel.isPlaying)
                     }
                 }
                 Spacer()
