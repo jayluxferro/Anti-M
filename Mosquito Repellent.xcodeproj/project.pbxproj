@@ -7,19 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		69BF78F82534FF7C002A9471 /* MStateModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69BF78F72534FF7C002A9471 /* MStateModel.swift */; };
 		69ECF1AA2534DC9300C7C834 /* Mosquito_RepellentApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69ECF1A92534DC9300C7C834 /* Mosquito_RepellentApp.swift */; };
 		69ECF1AC2534DC9300C7C834 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69ECF1AB2534DC9300C7C834 /* ContentView.swift */; };
 		69ECF1AE2534DC9800C7C834 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1AD2534DC9800C7C834 /* Assets.xcassets */; };
 		69ECF1B12534DC9800C7C834 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1B02534DC9800C7C834 /* Preview Assets.xcassets */; };
+		69ECF1C42534DD6500C7C834 /* 8.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1BA2534DD6400C7C834 /* 8.mp3 */; };
+		69ECF1C52534DD6500C7C834 /* 21.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1BB2534DD6400C7C834 /* 21.mp3 */; };
+		69ECF1C62534DD6500C7C834 /* 22.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1BC2534DD6500C7C834 /* 22.mp3 */; };
+		69ECF1C72534DD6500C7C834 /* 17.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1BD2534DD6500C7C834 /* 17.mp3 */; };
+		69ECF1C82534DD6500C7C834 /* 20.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1BE2534DD6500C7C834 /* 20.mp3 */; };
+		69ECF1C92534DD6500C7C834 /* 16.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1BF2534DD6500C7C834 /* 16.mp3 */; };
+		69ECF1CA2534DD6500C7C834 /* 24.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1C02534DD6500C7C834 /* 24.mp3 */; };
+		69ECF1CB2534DD6500C7C834 /* 12.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1C12534DD6500C7C834 /* 12.mp3 */; };
+		69ECF1CC2534DD6500C7C834 /* 10.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1C22534DD6500C7C834 /* 10.mp3 */; };
+		69ECF1CD2534DD6500C7C834 /* 14.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 69ECF1C32534DD6500C7C834 /* 14.mp3 */; };
+		69ECF1D02534DED300C7C834 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69ECF1CF2534DED300C7C834 /* Constant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		69BF78F72534FF7C002A9471 /* MStateModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MStateModel.swift; sourceTree = "<group>"; };
 		69ECF1A62534DC9300C7C834 /* Mosquito Repellent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mosquito Repellent.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		69ECF1A92534DC9300C7C834 /* Mosquito_RepellentApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mosquito_RepellentApp.swift; sourceTree = "<group>"; };
 		69ECF1AB2534DC9300C7C834 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		69ECF1AD2534DC9800C7C834 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		69ECF1B02534DC9800C7C834 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		69ECF1B22534DC9900C7C834 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69ECF1BA2534DD6400C7C834 /* 8.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 8.mp3; sourceTree = "<group>"; };
+		69ECF1BB2534DD6400C7C834 /* 21.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 21.mp3; sourceTree = "<group>"; };
+		69ECF1BC2534DD6500C7C834 /* 22.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 22.mp3; sourceTree = "<group>"; };
+		69ECF1BD2534DD6500C7C834 /* 17.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 17.mp3; sourceTree = "<group>"; };
+		69ECF1BE2534DD6500C7C834 /* 20.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 20.mp3; sourceTree = "<group>"; };
+		69ECF1BF2534DD6500C7C834 /* 16.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 16.mp3; sourceTree = "<group>"; };
+		69ECF1C02534DD6500C7C834 /* 24.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 24.mp3; sourceTree = "<group>"; };
+		69ECF1C12534DD6500C7C834 /* 12.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 12.mp3; sourceTree = "<group>"; };
+		69ECF1C22534DD6500C7C834 /* 10.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 10.mp3; sourceTree = "<group>"; };
+		69ECF1C32534DD6500C7C834 /* 14.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 14.mp3; sourceTree = "<group>"; };
+		69ECF1CF2534DED300C7C834 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,11 +76,14 @@
 		69ECF1A82534DC9300C7C834 /* Mosquito Repellent */ = {
 			isa = PBXGroup;
 			children = (
+				69ECF1B92534DCD100C7C834 /* audio */,
 				69ECF1A92534DC9300C7C834 /* Mosquito_RepellentApp.swift */,
 				69ECF1AB2534DC9300C7C834 /* ContentView.swift */,
 				69ECF1AD2534DC9800C7C834 /* Assets.xcassets */,
 				69ECF1B22534DC9900C7C834 /* Info.plist */,
 				69ECF1AF2534DC9800C7C834 /* Preview Content */,
+				69ECF1CF2534DED300C7C834 /* Constant.swift */,
+				69BF78F72534FF7C002A9471 /* MStateModel.swift */,
 			);
 			path = "Mosquito Repellent";
 			sourceTree = "<group>";
@@ -67,6 +94,23 @@
 				69ECF1B02534DC9800C7C834 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		69ECF1B92534DCD100C7C834 /* audio */ = {
+			isa = PBXGroup;
+			children = (
+				69ECF1BA2534DD6400C7C834 /* 8.mp3 */,
+				69ECF1C22534DD6500C7C834 /* 10.mp3 */,
+				69ECF1C12534DD6500C7C834 /* 12.mp3 */,
+				69ECF1C32534DD6500C7C834 /* 14.mp3 */,
+				69ECF1BF2534DD6500C7C834 /* 16.mp3 */,
+				69ECF1BD2534DD6500C7C834 /* 17.mp3 */,
+				69ECF1BE2534DD6500C7C834 /* 20.mp3 */,
+				69ECF1BB2534DD6400C7C834 /* 21.mp3 */,
+				69ECF1BC2534DD6500C7C834 /* 22.mp3 */,
+				69ECF1C02534DD6500C7C834 /* 24.mp3 */,
+			);
+			path = audio;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,8 +170,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69ECF1C62534DD6500C7C834 /* 22.mp3 in Resources */,
+				69ECF1CD2534DD6500C7C834 /* 14.mp3 in Resources */,
+				69ECF1C42534DD6500C7C834 /* 8.mp3 in Resources */,
 				69ECF1B12534DC9800C7C834 /* Preview Assets.xcassets in Resources */,
+				69ECF1C92534DD6500C7C834 /* 16.mp3 in Resources */,
 				69ECF1AE2534DC9800C7C834 /* Assets.xcassets in Resources */,
+				69ECF1CB2534DD6500C7C834 /* 12.mp3 in Resources */,
+				69ECF1CA2534DD6500C7C834 /* 24.mp3 in Resources */,
+				69ECF1CC2534DD6500C7C834 /* 10.mp3 in Resources */,
+				69ECF1C82534DD6500C7C834 /* 20.mp3 in Resources */,
+				69ECF1C72534DD6500C7C834 /* 17.mp3 in Resources */,
+				69ECF1C52534DD6500C7C834 /* 21.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,6 +194,8 @@
 			files = (
 				69ECF1AC2534DC9300C7C834 /* ContentView.swift in Sources */,
 				69ECF1AA2534DC9300C7C834 /* Mosquito_RepellentApp.swift in Sources */,
+				69ECF1D02534DED300C7C834 /* Constant.swift in Sources */,
+				69BF78F82534FF7C002A9471 /* MStateModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
