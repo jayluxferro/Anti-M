@@ -30,11 +30,11 @@ struct ContentView: View {
                     mStateModel.playAudio()
                 }
                 .font(.headline)
-                .frame(width: 50, height: 50, alignment: .center)
-                .padding(20)
+                .frame(width: 100, height: 100, alignment: .center)
                 .background(mStateModel.isPlaying ? Color.pink : Color.blue)
                 .foregroundColor(.white)
                 .clipShape(Circle())
+                .padding(20)
                 .animation(.default)
                 
             }
