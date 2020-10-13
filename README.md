@@ -1,5 +1,5 @@
 <p id="downloads" align="center">
-	<h2 align="center">A funny Mosquito Anti-Mosquito App</h2>
+	<h2 align="center">A funny Anti-Mosquito App</h2>
 </p>
 
 ### Development
